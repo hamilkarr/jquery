@@ -20,6 +20,13 @@ jquery_selector_search3.html
 
 jquery_selector_search4.html 
 
+    $().()contents(); 질문.
+    const contents2 = $("body").contents();
+        console.log(contents2);
+        콘솔 명령창에서 contents2를 인식 못함.
+
 강의_메서드.txt 
 
 jquery_method.html 
+
+강의_객체조작.txt

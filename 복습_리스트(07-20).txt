@@ -1,0 +1,25 @@
+강의_객체조작.txt
+
+jquery_attr.html
+
+강의_수치조작.txt
+
+jquery_width_height.html
+
+-----------------------------------------
+mobile_slide.js
+close : function() {
+}
+
+에서 close() 함수를 정의했음. 그런데 표현이 
+close : 가능???
+-----------------------------------------
+
+ $(".side_close, #layer_dim").click(function() {
+        mobileSide.close();
+    });
+
+에서 .side_close, #layer_dim 복수로 등록함.
+
+그룹선택자 표기법에 따름.!!!
+------------------------------------------
